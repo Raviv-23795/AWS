@@ -1,0 +1,13 @@
+**Cloud and cloud computing:**
+
+&quot;The cloud&quot; refers to servers that are accessed over the Internet and the software and databases that run on those servers. Cloud servers are located in data centers all over the world.
+
+By using cloud computing, users and companies don&#39;t have to manage physical servers themselves or run software applications on their own machines. The cloud enables users to access the same files and applications from almost any device, because the computing and storage takes place on servers in a data center, instead of locally on the user device.
+
+Most of the cloud Vendors uses Pay-as-you-go method for cloud computing that charges based on usage. The practice is similar to that of utility bills, using only resources that are needed. One major benefit of the pay-as-you-go method is that there are no wasted resources, since users only pay for services procured, rather than provisioning for a certain amount of resources that may or may not be used.
+
+**Types of cloud:**
+
+1. Public: Public clouds are the most common way of deploying cloud computing where the cloud resources like servers and storage are owned and operated by a third-party cloud service provider and delivered over the Internet. With a public cloud, all hardware, software and other supporting infrastructure is owned and managed by the cloud provider. Popular examples of public cloud are AWS provided by Amazon, Azure provided by Microsoft and GCP (Google Cloud Platform) provided by Google. Other vendors include IBM, Oracle, etc.
+2. Private: A private cloud is a server, data center, or distributed network wholly dedicated to one organization. The private cloud can be physically located at your organization&#39;s on-site datacenter or it can be hosted by a third-party service provider. But in a private cloud, the services and infrastructure are always maintained on a private network and the hardware and software are dedicated solely to your organization.
+3. Hybrid: Hybrid clouds combine private clouds with public clouds so organizations can reap the advantages of both. In a hybrid cloud, data and applications can move between private and public clouds for greater flexibility and more deployment options. For instance, you can use the public cloud for high-volume; lower-security needs such as web-based email and the private cloud for sensitive, business-critical operations like financial reporting.
